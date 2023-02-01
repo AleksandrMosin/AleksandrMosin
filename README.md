@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&height=60&lines=Aleksandr+Mosin)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&pause=1000&color=FFFF00&center=true&vCenter=true&width=600&height=60&lines=Aleksandr+Mosin)](https://git.io/typing-svg)
 #### I`m a junior QA
 _______
 
